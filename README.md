@@ -1,4 +1,4 @@
-# Crop Recommendation
+# Crop Recommendation System
 
 This project contains a Jupyter Notebook for crop recommendation based on various features such as soil nutrients and weather conditions.
 
